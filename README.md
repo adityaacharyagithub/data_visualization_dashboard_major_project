@@ -1,1 +1,1 @@
-# data_visualization_dashboard_major_project
+Data Visualization Dashboard
